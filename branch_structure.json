@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-712-ct-07-define-exact-admin-transfer-expiry",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-712-ct-07-define-exact-admin-transfer-expiry": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-712-ct-07-define-exact-admin-transfer-expiry",
+    "origin"
+  ]
+}
